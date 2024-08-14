@@ -1,3 +1,27 @@
+# Live Docs
+
+![Screenshot 2024-08-14 at 8 22 32 AM](https://github.com/user-attachments/assets/8363f4b8-cae4-4f8f-9203-6b474d56886c)
+![Screenshot 2024-08-14 at 8 30 12 AM](https://github.com/user-attachments/assets/ebf7a735-6d94-4c88-ab11-15c6b0725e1b)
+
+LiveDocs is a collaborative document editing platform inspired by Google Docs. It enables real-time collaboration, allowing multiple users to edit and share documents simultaneously. Built using modern web technologies, LiveDocs offers a seamless and responsive user experience.
+
+**Features**
+
+- Real-time Collaboration: Multiple users can edit the same document simultaneously with changes reflected in real-time.
+- User Authentication: Secure sign-up and login using Clerk for authentication.
+- Document Management: Create, edit, and delete documents with a simple and intuitive interface.
+- Version Control: Track changes with the ability to revert to previous document versions.
+- Responsive Design: A fully responsive UI built with Tailwind CSS ensures optimal performance across devices.
+- Error Monitoring: Integrated Sentry for monitoring and tracking errors in real-time.
+
+**Tech Stack**
+
+- Next.js: A React framework for building server-side rendering and static web applications.
+- Liveblocks: Provides real-time collaborative editing features.
+- Tailwind CSS: A utility-first CSS framework for building custom designs efficiently.
+- Clerk: Handles user authentication and management with ease.
+- Sentry: Integrated for monitoring application errors and performance issues.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
